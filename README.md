@@ -11,7 +11,7 @@ This repository contains the implementation for a multi-task learning model usin
 - `ML_Apprentice_Structured_Documentation.pdf` - Explanation and analysis
 
 ## Architectural Diagram
-[mtl_architecture_diagram](mtl_architecture_diagram.jpeg)
+![mtl_architecture_diagram](mtl_architecture_diagram.jpeg)
 
 ## Setup Instructions
 
